@@ -1,6 +1,11 @@
 # Analygraph Project
 
-![Mars Analygraph](/exampleAnalygraph.png "Mars")
+## Before:
+![Mars left](/TwnPks_RkGdn_left_sm.jpeg "Mars left")
+![Mars right](/TwnPks_RkGdn_rite_sm.jpeg "Mars right")
+## After:
+
+![Mars Analygraph](/exampleAnalygraph.png "Mars Color Analygraph")
 
 
 A C++ project that takes two images as inputs, a number 1-7 to designate an algorithm and creates an anaglyph.
