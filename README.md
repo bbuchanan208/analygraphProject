@@ -28,5 +28,7 @@ A C++ project that takes two images as inputs, a number 1-7 to designate an algo
      6. 6=DuBois analygraph
      7. 7=Roscolux analygraph
 
-## Example:
+## Example Useage:
+```
  ./zeta /Users/benjaminbuchanan/desktop/TwnPks_RkGdn_left_sm.jpeg /Users/benjaminbuchanan/Desktop/TwnPks_RkGdn_rite_sm.jpeg 3
+ ```
